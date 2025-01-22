@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Acme&size=35&color=FFFFFFFF&center=true&background=FF4CC600&multiline=true&duration=2000&pause=1000&width=555&height=400&lines=Actualmente+soy+estudiante+de+;Desarrollo+de+Software%2C+;me+gustan+mucho+los+algoritmos%2C;la+programaci%C3%B3n+y+la+tecnolog%C3%ADa!;;Mi+objetivo+es+lograr;convertirme+en+un+;Desarrollador+Full-Stack." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Acme&size=35&color=FFFFFFFF&center=true&background=FF4CC600&multiline=true&duration=2000&width=555&height=400&lines=Actualmente+soy+estudiante+de+;Desarrollo+de+Software%2C+;me+gustan+mucho+los+algoritmos%2C;la+programaci%C3%B3n+y+la+tecnolog%C3%ADa!;;Mi+objetivo+es+lograr;convertirme+en+un+;Desarrollador+Full-Stack." alt="Typing SVG"/>
   </div>
 
 <div align="center">
